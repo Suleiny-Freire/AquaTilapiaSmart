@@ -1,7 +1,16 @@
-/**
+      /**
  *
- * @author Mathias Andres Jimenez Herrera
+ * @authores 
+ * BRITHANY SULEINY FREIRE RIOS
+ *CRISTHIAN JOAO GOROZABEL ROLDAN
+ *BRITHANY DAYANARA VEGA CUEVA
+ *DARWIN ALEXIS OJEDA TAMAYO
+ *MATHIAS ANDRES JIMENEZ HERRERA
+ *JUSTIN LEONARDO FEIJOO PALADINES
+ *ROBIN ALEJANDRO SALAS PEDREROS
+ *JEAN LUCAS TITUANA CALDERON
  */
+
 import java.util.Locale;
 import java.util.Scanner;
 
@@ -62,7 +71,7 @@ public class AquaTilapiaSmart {
     static void mostrarMenu() {
         System.out.println("");
         System.out.println("===== CONTROL AQUATILAPIA SMART =====");
-        System.out.println("1. Registrar mediciones de oxigeno, temperatura, humedad y nivel");
+        System.out.println("1. Registrar mediciones de oxigeno, temperatura, humedad y nivel del agua");
         System.out.println("2. Consultar el estado de la piscina");
         System.out.println("3. Evaluar y simular el control del aireador y la bomba");
         System.out.println("4. Consultar el estado del aireador y la bomba");
